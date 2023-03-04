@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Mar 2023 17:39:32 at https://www.coursera.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2%e2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.coursera.org/ -O1 "C:\My Web Sites\Coursera Copy2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:40	Warning: 	Link https://www.coursera.org/business?utm_content=corp-to-home-for-enterprise&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out not scanned (follow robots meta tag)
+17:44:40	Warning: 	Link https://www.coursera.org/campus?utm_content=corp-to-landing-for-campus&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out not scanned (follow robots meta tag)
+17:44:41	Warning: 	Link https://www.coursera.org/government?utm_content=corp-to-landing-for-government&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out not scanned (follow robots meta tag)
+17:44:47	Warning: 	Link https://www.coursera.org/?authMode=login not scanned (follow robots meta tag)
+17:44:51	Warning: 	Link https://www.coursera.org/?authMode=signup not scanned (follow robots meta tag)
+17:44:55	Warning: 	Link https://www.coursera.org/business?utm_campaign=website&utm_content=banner-from-B2C-home-try-business&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:48:07	Warning: 	Link https://www.coursera.org/business?utm_campaign=website&utm_content=banner-from-B2C-home-for-enterprise&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:48:07	Warning: 	Link https://www.coursera.org/business/teams?utm_campaign=website&utm_content=banner-from-B2C-home-for-teams&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:50:14	Warning: 	Link https://www.coursera.org/business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:50:15	Warning: 	Link https://www.coursera.org/government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:50:15	Warning: 	Link https://www.coursera.org/campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise not scanned (follow robots meta tag)
+17:50:18	Error: 	"Bad Request" (400) at link https://www.coursera.org/^webpack:// (from https://www.coursera.org/)
+17:50:18	Error: 	"Not Found" (404) at link https://www.coursera.org/maestro/api/ (from https://www.coursera.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 46 seconds : 429 links scanned, 426 files written (149004625 bytes overall) [28071953 bytes received at 43455 bytes/sec], 148726117 bytes transferred using HTTP compression in 433 files, ratio 18%, 25.6 requests per connection
+(2 errors, 11 warnings, 0 messages)

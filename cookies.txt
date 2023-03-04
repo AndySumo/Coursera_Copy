@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.coursera.org	TRUE	/	FALSE	1999999999	CSRF3-Token	1678721975.c4nFEKGYtqC9bzse
+.coursera.org	TRUE	/	FALSE	1999999999	__204u	3170314899-1677857975031
+
